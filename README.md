@@ -27,7 +27,7 @@ im looking to implement something that lets me show sum sort of sticker or warni
 - Full parts list with quantities and costs: **[BOM.csv](BOM.csv)**
 - Use the gerber file from Production to get Physical PCB or chnage the PCB desgin according to your need
 - After Geting the PCB solder all the components
-- Flash Arduino Nano with **[Arms_length.ino](Arms_length.ino)**
+- Flash Arduino Nano with **[Firmware/Arms_length.ino](Arms_length.ino)**
 
 ### Dependencies
 
