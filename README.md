@@ -12,6 +12,8 @@ So as a solution i made this and now device starts buzzing when i get close to t
 - PCB
  
   <img src="RENDERS/pcb_layout.png" width="300">
+
+I used kicad to design the PCB from scratch, all the files are available in PCB Folder.
   
 - SCHEMATICS
 
@@ -22,6 +24,8 @@ So as a solution i made this and now device starts buzzing when i get close to t
   <img src="RENDERS/explode_view.png" width="300">
   
 - Case
+
+I modelled the case for the device in Autodesk Fusion, Files are available in 3Dmodels folder and Production Folder.
 
   <img src="RENDERS/front.png" width="300">
   <img src="RENDERS/side2.png" width="300">
@@ -34,7 +38,8 @@ So as a solution i made this and now device starts buzzing when i get close to t
 - Flash Arduino Nano with **[Arms_length.ino](Firmware/Arms_length.ino)**.
 
 ### Dependencies
-
+- Download KIcad
+- Open the project in kicad  
 - Download Arduino IDE.
 - Download **[Arms_length.ino](Firmware/Arms_length.ino)**.
 
