@@ -11,7 +11,9 @@ im looking to implement something that lets me show sum sort of sticker or warni
 
 ### Screenshots
 - PCB
+- 
   <img src="RENDERS/pcb_layout.png">
+  
 - SCHEMATICS
   <img src ="RENDERS/Schematic.png">
 - Explode view
