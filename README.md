@@ -1,7 +1,7 @@
 # Arms Length
 A device that measures the distance between u and your mointor when u get too close to your monitor it starts buzzing
 
-<img src="RENDERS/front.png" width="300"> 
+<img src="RENDERS/front.png" width="600"> 
 
 ## Description
 
@@ -11,14 +11,19 @@ im looking to implement something that lets me show sum sort of sticker or warni
 
 ### Screenshots
 - PCB
-- 
+ 
   <img src="RENDERS/pcb_layout.png" width="300">
   
 - SCHEMATICS
+
   <img src ="RENDERS/Schematic.png" width="300">
+  
 - Explode view
+
   <img src="RENDERS/explode_view.png" width="300">
+  
 - Case
+
   <img src="RENDERS/front.png" width="300">
   <img src="RENDERS/side2.png" width="300">
 
