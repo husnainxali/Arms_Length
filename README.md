@@ -1,8 +1,7 @@
 # Arms Length
+A device that measures the distance between u and your mointor when u get too close to your monitor it starts buzzing
 
 <img src="RENDERS/front.png"> 
-
-A device that measures the distance between u and your mointor when u get too close to your monitor it starts buzzing
 
 ## Description
 
