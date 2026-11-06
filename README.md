@@ -15,7 +15,7 @@ So as a solution i made this and now device starts buzzing when i get close to t
   
 - SCHEMATICS
 
-  <img src ="RENDERS/Schematic.png" width="300">
+  <img src ="RENDERS/Schematic.png" width="500">
   
 - Explode view
 
