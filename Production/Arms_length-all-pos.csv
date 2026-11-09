@@ -1,0 +1,6 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"A1","Arduino_Nano_v3.x","Arduino_Nano",111.060000,-99.425000,180.000000,top
+"BZ1","Buzzer","Buzzer_12x9.5RM7.6",100.300000,-111.275000,180.000000,top
+"D1","LED","LED_D5.0mm",81.875000,-68.970000,90.000000,top
+"R1","R","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",91.600000,-65.545000,-90.000000,top
+"U1","HC-SR04","TH_HC-SR04V",93.150000,-93.240000,-90.000000,top
